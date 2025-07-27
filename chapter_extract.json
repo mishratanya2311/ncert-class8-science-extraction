@@ -1,0 +1,35 @@
+{
+    "Chapters": [
+        {
+            "Chapter Title": "Chapter 6: Reproduction in Animals",
+            "Topics": [
+                {
+                    "Topic": "6.1 Modes of Reproduction",
+                    "Subtopics": [
+                        "Sexual Reproduction",
+                        "Asexual Reproduction"
+                    ]
+                },
+                {
+                    "Topic": "6.2 Sexual Reproduction",
+                    "Subtopics": [
+                        "Male Reproductive Organs",
+                        "Female Reproductive Organs",
+                        "Fertilisation",
+                        "Development of Embryo",
+                        "Viviparous and Oviparous Animals",
+                        "Young Ones to Adults"
+                    ]
+                },
+                {
+                    "Topic": "6.3 Asexual Reproduction",
+                    "Subtopics": [
+                        "Budding in Hydra",
+                        "Binary Fission in Amoeba",
+                        "Story of Dolly (Cloning)"
+                    ]
+                }
+            ]
+        }
+    ]
+}
