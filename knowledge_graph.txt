@@ -1,0 +1,16 @@
+Knowledge Graph:
+📘 Chapter 6: Reproduction in Animals
+  └── 📗 6.1 Modes of Reproduction
+      └── 📄 Sexual Reproduction
+      └── 📄 Asexual Reproduction
+  └── 📗 6.2 Sexual Reproduction
+      └── 📄 Male Reproductive Organs
+      └── 📄 Female Reproductive Organs
+      └── 📄 Fertilisation
+      └── 📄 Development of Embryo
+      └── 📄 Viviparous and Oviparous Animals
+      └── 📄 Young Ones to Adults
+  └── 📗 6.3 Asexual Reproduction
+      └── 📄 Budding in Hydra
+      └── 📄 Binary Fission in Amoeba
+      └── 📄 Story of Dolly (Cloning)

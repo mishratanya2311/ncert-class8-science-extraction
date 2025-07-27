@@ -1,0 +1,8 @@
+Extract structured chapter data from the following Class 8 NCERT Science chapter:
+
+1. Identify Chapter Title
+2. For each chapter, extract Topics and Subtopics
+3. Preserve textbook flow such as headings, activities, exercises if possible
+4. Format output as JSON and Excel
+
+Content Source: Chapter 6 – Reproduction in Animals
